@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "currency": "USD",
+  "products": [
+    {
+      "id": "demo-soundtrack-vol1",
+      "slug": "volume-i-soundtrack-demo",
+      "title": "Volume I (Soundtrack)",
+      "creator": "Holler & Hellfire",
+      "category": "music",
+      "description": "Full album download. Includes lyric sheet PDF.",
+      "format": "WAV + PDF",
+      "priceCents": 1200,
+      "status": "draft",
+      "image": null,
+      "previewUrl": null,
+      "stripePriceId": null,
+      "deliveryAssetId": null
+    },
+    {
+      "id": "demo-pike-poster",
+      "slug": "pike-county-corridor-poster-demo",
+      "title": "Pike County Corridor Poster",
+      "creator": "Holler & Hellfire",
+      "category": "art",
+      "description": "High-resolution printable map of the Pike County corridor.",
+      "format": "Printable PDF · 18 × 24 in",
+      "priceCents": 500,
+      "status": "draft",
+      "image": null,
+      "previewUrl": null,
+      "stripePriceId": null,
+      "deliveryAssetId": null
+    },
+    {
+      "id": "demo-excerpts",
+      "slug": "story-excerpt-pack-demo",
+      "title": "Story Excerpt Pack",
+      "creator": "Holler & Hellfire",
+      "category": "books",
+      "description": "Selected chapters from the storylines, ready to read offline.",
+      "format": "PDF",
+      "priceCents": 800,
+      "status": "draft",
+      "image": null,
+      "previewUrl": null,
+      "stripePriceId": null,
+      "deliveryAssetId": null
+    }
+  ]
+}
