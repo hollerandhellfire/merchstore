@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "currency": "USD",
+  "products": [
+    {
+      "id": "dixie-dead-reckoning",
+      "slug": "dixie-dead-reckoning",
+      "title": "Dead Reckoning",
+      "creator": "Dixie Deadshot",
+      "category": "music",
+      "description": "Digital music release; final store formats and pricing pending approval.",
+      "format": "To be confirmed",
+      "priceCents": null,
+      "status": "draft",
+      "image": null,
+      "previewUrl": null,
+      "stripePriceId": null,
+      "deliveryAssetId": null
+    },
+    {
+      "id": "judas-inheritance",
+      "slug": "judas-inheritance",
+      "title": "Inheritance",
+      "creator": "Judas Crowe",
+      "category": "music",
+      "description": "Digital album; final store formats and pricing pending approval.",
+      "format": "To be confirmed",
+      "priceCents": null,
+      "status": "draft",
+      "image": null,
+      "previewUrl": null,
+      "stripePriceId": null,
+      "deliveryAssetId": null
+    },
+    {
+      "id": "two-bad-neon-outlaws",
+      "slug": "two-bad-neon-outlaws",
+      "title": "Neon Outlaws",
+      "creator": "Two Bad Alibis",
+      "category": "music",
+      "description": "Digital album; final store formats and pricing pending approval.",
+      "format": "To be confirmed",
+      "priceCents": null,
+      "status": "draft",
+      "image": null,
+      "previewUrl": null,
+      "stripePriceId": null,
+      "deliveryAssetId": null
+    },
+    {
+      "id": "veda-saltwater-static",
+      "slug": "veda-saltwater-static",
+      "title": "Saltwater & Static",
+      "creator": "Veda Knox",
+      "category": "music",
+      "description": "Digital album; final store formats and pricing pending approval.",
+      "format": "To be confirmed",
+      "priceCents": null,
+      "status": "draft",
+      "image": null,
+      "previewUrl": null,
+      "stripePriceId": null,
+      "deliveryAssetId": null
+    },
+    {
+      "id": "selah-midnight-mass",
+      "slug": "selah-midnight-mass",
+      "title": "Midnight Mass",
+      "creator": "Selah Sin",
+      "category": "music",
+      "description": "Digital EP; final store formats and pricing pending approval.",
+      "format": "To be confirmed",
+      "priceCents": null,
+      "status": "draft",
+      "image": null,
+      "previewUrl": null,
+      "stripePriceId": null,
+      "deliveryAssetId": null
+    }
+  ]
+}
